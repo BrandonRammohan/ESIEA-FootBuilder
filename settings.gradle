@@ -1,0 +1,2 @@
+rootProject.name='ESIEA-FootBuilder'
+include ':app'
